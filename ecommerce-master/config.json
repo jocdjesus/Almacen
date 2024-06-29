@@ -1,0 +1,3 @@
+{
+    "mongoprueba": "mongodb://localhost:27017/"
+  }
