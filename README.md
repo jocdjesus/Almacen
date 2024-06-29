@@ -13,28 +13,28 @@
    npm install -g expo-cli
    ```
 3. Descarga dependencias:
-   cd ecommerce-master
+   cd Almacen/ecommerce-master
    ```bash
    npm i
    ```
-4. Correr API's
-   Dirígete a ecommerce-master/pages/api/producto y escribe el siguiente comando:
+4. Correr API's:
+   Dirígete a Almacen/ecommerce-master/pages/api/producto y escribe el siguiente comando:
    ```bash
    node producto.js
    ```
-   Dirígete a ecommerce-master/pages/api/usuario y escribe el siguiente comando:
+   Dirígete a Almacen/ecommerce-master/pages/api/usuario y escribe el siguiente comando:
    ```bash
    node usuario.js
    ```
-5. Correr el programa
-   Corre el programa con:
+5. Correr el programa:
+   Ejecuta el programa con:
    ```bash
    npx expo start
    ```
-Adicional
+Adicional:
    Antes de ejecutar el programa, a veces es necesario ingresar el comando:
    ```bash
    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
    ```
-Nota
+Nota:
 Es necesario contar con Expo 50 para el correcto funcionamiento de la aplicación.
