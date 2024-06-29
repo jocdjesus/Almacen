@@ -6,7 +6,8 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/jocdjesus/Almacen.git```
+   git clone https://github.com/jocdjesus/Almacen.git
+   ```
 2. Instalar Expo CLI:
    ```bash
    npm install -g expo-cli
