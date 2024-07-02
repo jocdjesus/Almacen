@@ -37,4 +37,4 @@ Adicional:
    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
    ```
 Nota:
-Es necesario contar con Expo 50 para el correcto funcionamiento de la aplicación.
+Es necesario contar con Expo 50 y MongoDB para el correcto funcionamiento de la aplicación.
