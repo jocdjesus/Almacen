@@ -8,6 +8,9 @@
 - **Tener instalado MongoDB** para el correcto funcionamiento de la aplicación.
 - **Tener instalado Node.js.**
 
+  
+
+### Instalación:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/jocdjesus/Almacen.git
