@@ -2,7 +2,11 @@
 
 ## Instalación
 
-### Instalar Expo Go en tu dispositivo móvil Android o iOS
+### Instalaciones previas:
+
+- **Instalar Expo Go** en tu dispositivo móvil Android o iOS. (Es necesario instalar Expo 50).
+- **Tener instalado MongoDB** para el correcto funcionamiento de la aplicación.
+- **Tener instalado Node.js.**
 
 1. Clona el repositorio:
    ```bash
@@ -36,5 +40,3 @@ Adicional:
    ```bash
    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
    ```
-Nota:
-Es necesario contar con Expo 50 y MongoDB para el correcto funcionamiento de la aplicación.
